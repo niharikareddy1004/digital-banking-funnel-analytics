@@ -1,0 +1,9 @@
+transaction_id,customer_id,transaction_date,transaction_type,amount,status,device_type
+1,1,2025-01-05,Transfer,500,Success,Mobile
+2,1,2025-01-06,Bill Payment,200,Success,Web
+3,2,2025-01-04,Transfer,300,Failed,Mobile
+4,4,2025-01-08,Recharge,100,Success,Mobile
+5,6,2025-01-10,Transfer,700,Success,Web
+6,6,2025-01-11,Bill Payment,150,Failed,Mobile
+7,8,2025-01-12,Recharge,120,Success,Mobile
+8,8,2025-01-13,Transfer,400,Success,Web
