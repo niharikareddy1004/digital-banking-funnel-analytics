@@ -1,1 +1,12 @@
 
+customer_id,signup_date,city,age_group,acquisition_channel
+1,2025-01-01,Orlando,25-34,Paid Ads
+2,2025-01-02,Miami,35-44,Referral
+3,2025-01-03,Tampa,25-34,Organic Search
+4,2025-01-04,Jacksonville,18-24,Social Media
+5,2025-01-05,Orlando,45-54,Email Campaign
+6,2025-01-06,Miami,25-34,Referral
+7,2025-01-07,Tampa,35-44,Paid Ads
+8,2025-01-08,Orlando,18-24,Organic Search
+9,2025-01-09,Jacksonville,25-34,Social Media
+10,2025-01-10,Miami,35-44,Email Campaign
